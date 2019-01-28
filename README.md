@@ -1,5 +1,3 @@
-# builderjer's personal version 
-
 # TheMovieDB.org skill
 
 # Register for Developer Account Here - https://developers.themoviedb.org/

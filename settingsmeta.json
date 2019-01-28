@@ -1,0 +1,27 @@
+{
+    "name": "TMdB",
+    "skillMetadata": {
+        "sections": [
+            {
+                "name": "V3 API",
+                "fields": [
+                    {
+                        "name": "v3api",
+                        "type": "text",
+                        "label": "",
+                        "value": ""
+                    }
+                ],
+                "name": "Default Language",
+                "fields": [
+                    {
+                        "name": "language",
+                        "type": "text",
+                        "label": "en_US",
+                        "value": "en_US"
+                    }
+                ]
+            }
+        ]
+    }
+}
